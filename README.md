@@ -1,2 +1,2 @@
 # BadmintonRobot
-Shuttlecock detection and tracking for Badminton Robot
+Realtime Shuttlecock tracking and trajectory prediction System
